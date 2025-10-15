@@ -14,11 +14,11 @@ public class Main {
 
        car.drive();
 
-        System.out.println(car.name);
-        System.out.println(car.model);
-        System.out.println(car.colour);
-        System.out.println(car.probeg);
-        System.out.println(car.year);
+        System.out.println("Name: "+car.name);
+        System.out.println("Model: "+car.model);
+        System.out.println("Colour: "+car.colour);
+        System.out.println("Probeg: "+car.probeg);
+        System.out.println("Year: "+car.year);
 
     }
 }
